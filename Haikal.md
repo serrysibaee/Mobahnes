@@ -1,8 +1,10 @@
 # General Layout
 
 ## General names:
-Latent Semantic Analysis (LSA)
+Latent Semantic Analysis (LSA) 
+
 Latent Dirichlet Allocation (LDA)
+
 good resource [link](https://www.youtube.com/playlist?list=PLIUOU7oqGTLhlWpTz4NnuT3FekouIVlqc)
 
 

@@ -7,6 +7,9 @@ Latent Dirichlet Allocation (LDA)
 
 good resource [link](https://www.youtube.com/playlist?list=PLIUOU7oqGTLhlWpTz4NnuT3FekouIVlqc)
 
+good resource for string comparison algos [link](https://yassineelkhal.medium.com/the-complete-guide-to-string-similarity-algorithms-1290ad07c6b7)
+
+
 ## string comparison algos
 1. Jaccard method
 
@@ -17,6 +20,7 @@ good resource [link](https://www.youtube.com/playlist?list=PLIUOU7oqGTLhlWpTz4Nn
 4. (could add one hot encoding)
 5. BOW (bag of word)
 6. Smith–Waterman algorithm
+7. Gestalt pattern matching
 
 ## Probability algos
 1. PMI/PPMI

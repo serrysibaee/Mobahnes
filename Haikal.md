@@ -17,10 +17,8 @@ good resource for string comparison algos [link](https://yassineelkhal.medium.co
 1. Jaccard method
 2. w-shining 
 3. levenshtein
-4. (could add one hot encoding)
-5. BOW (bag of word)
-6. Smith–Waterman algorithm
-7. Gestalt pattern matching
+4. Smith–Waterman algorithm
+5. Gestalt pattern matching
 
 ## Probability algos
 1. PMI/PPMI
